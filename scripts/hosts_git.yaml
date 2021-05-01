@@ -1,0 +1,6 @@
+all:
+  hosts:
+    gitserver:
+      ansible_host: 192.168.100.20
+      ansible_user: root
+      ansible_password: centos
